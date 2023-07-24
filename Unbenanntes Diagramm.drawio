@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T09:10:30.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HLJ8li8TahLfdND7hPuR" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-24T09:18:19.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Z5aju03erR82RwssT1uI" version="21.6.5" type="github">
   <diagram name="Seite-1" id="8O7nqMV1pDiucMTswJLM">
-    <mxGraphModel dx="3847" dy="1897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4703" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -164,12 +164,6 @@
         </mxCell>
         <mxCell id="FmK_zJNC0J271hB84PhB-125" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;definieren&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="FmK_zJNC0J271hB84PhB-18">
           <mxGeometry x="210" y="20" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FmK_zJNC0J271hB84PhB-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.571;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.007;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FmK_zJNC0J271hB84PhB-16" target="FmK_zJNC0J271hB84PhB-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1600" y="-534" as="sourcePoint" />
-            <mxPoint x="-1550" y="-584" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="FmK_zJNC0J271hB84PhB-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;DOFI im Fall angelegt, wir haben Patienteninformationen, d.h.:&lt;br&gt;PatientenID, Fallnr.,&lt;br&gt;Geburtdatum, Vorname, Nachname etc.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="-1010" y="-940" width="300" height="130" as="geometry" />
@@ -340,7 +334,7 @@
           <mxGeometry x="53.12500000000001" y="92.57142857142857" width="21.25" height="17.142857142857142" as="geometry" />
         </mxCell>
         <mxCell id="FmK_zJNC0J271hB84PhB-84" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-2463.57" y="-100" width="798.37" height="760" as="geometry" />
+          <mxGeometry x="-2452" y="-100" width="798.37" height="760" as="geometry" />
         </mxCell>
         <mxCell id="FmK_zJNC0J271hB84PhB-85" value="Darauf folgende Massnahmen" style="html=1;whiteSpace=wrap;container=1;verticalAlign=top;align=left;fontStyle=1;fontSize=22;" vertex="1" parent="FmK_zJNC0J271hB84PhB-84">
           <mxGeometry x="1.3" y="270" width="797.07" height="490" as="geometry" />
@@ -405,9 +399,6 @@
         <mxCell id="FmK_zJNC0J271hB84PhB-112" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;recursiveResize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="FmK_zJNC0J271hB84PhB-105">
           <mxGeometry x="217.59541025641025" y="10" width="539.135358974359" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="FmK_zJNC0J271hB84PhB-113" value="Überdosierung" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="FmK_zJNC0J271hB84PhB-112">
-          <mxGeometry x="8.071794871794872" y="7.5" width="15.134615384615383" height="15" as="geometry" />
-        </mxCell>
         <mxCell id="FmK_zJNC0J271hB84PhB-114" value="Tägliche statt wöchentliche Verschreibung" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="FmK_zJNC0J271hB84PhB-112">
           <mxGeometry x="8.071794871794872" y="37.5" width="15.134615384615383" height="15" as="geometry" />
         </mxCell>
@@ -419,6 +410,9 @@
         </mxCell>
         <mxCell id="FmK_zJNC0J271hB84PhB-126" value="Keine Falschverschreibung" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="FmK_zJNC0J271hB84PhB-112">
           <mxGeometry x="8.071794871794872" y="130" width="15.134615384615383" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FmK_zJNC0J271hB84PhB-140" value="Überdosierung" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.checkbox;rSize=0;resizable=0;fillColor=#aaaaaa;strokeColor=#444444;gradientColor=#666666;align=left;spacingLeft=4;fontSize=17;fontColor=#008cff;labelPosition=right;" vertex="1" parent="FmK_zJNC0J271hB84PhB-112">
+          <mxGeometry x="8.201794871794846" y="10" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="FmK_zJNC0J271hB84PhB-130" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Datum: Erkennung des Zwischenfalls&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="FmK_zJNC0J271hB84PhB-2">
           <mxGeometry x="9.595346153845966" y="290" width="765.1758846153846" height="50" as="geometry" />
@@ -438,8 +432,8 @@
         <mxCell id="FmK_zJNC0J271hB84PhB-135" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Freitextfeld&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="FmK_zJNC0J271hB84PhB-134">
           <mxGeometry x="231.27538932183452" y="13.328000000000001" width="527.1703561586031" height="26.294240000000002" as="geometry" />
         </mxCell>
-        <mxCell id="FmK_zJNC0J271hB84PhB-138" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Grund des Zwischenfalls&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
-          <mxGeometry x="-1540" y="-130" width="290" height="40" as="geometry" />
+        <mxCell id="FmK_zJNC0J271hB84PhB-138" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Grund des Zwischenfalls&lt;br&gt;Person, die Falschverschieb angeordnet hat&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="-1540" y="-210" width="290" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FmK_zJNC0J271hB84PhB-139" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.004;entryY=0.604;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FmK_zJNC0J271hB84PhB-131" target="FmK_zJNC0J271hB84PhB-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -452,6 +446,15 @@
             <mxPoint x="-1640" y="-450" as="sourcePoint" />
             <mxPoint x="-1590" y="-500" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FmK_zJNC0J271hB84PhB-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.571;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.007;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FmK_zJNC0J271hB84PhB-16" target="FmK_zJNC0J271hB84PhB-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1600" y="-534" as="sourcePoint" />
+            <mxPoint x="-1550" y="-584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FmK_zJNC0J271hB84PhB-145" value="" style="html=1;whiteSpace=wrap;container=1;align=left;fillColor=#E1D5E7;" vertex="1" parent="1">
+          <mxGeometry x="-2843.57" y="-1110" width="380" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
