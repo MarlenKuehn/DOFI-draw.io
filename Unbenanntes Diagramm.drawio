@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T14:29:13.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RnSZ6_TOyt57rALHvEYt" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-24T14:52:43.639Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HnNCP3hAnU1DC2Ig2L20" version="21.6.5" type="github">
   <diagram name="Seite-1" id="8O7nqMV1pDiucMTswJLM">
-    <mxGraphModel dx="5569" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7003" dy="2697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -591,10 +591,10 @@
           <mxGeometry x="-2950" y="-1150" width="310" height="200" as="geometry" />
         </mxCell>
         <mxCell id="MbmpIsr86u1NgLFeS8km-86" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Bezüge Laden:&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;...&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Mit Überschreiben:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;fillColor=#E1D5E7;" vertex="1" parent="1">
-          <mxGeometry x="-2950" y="-940" width="310" height="170" as="geometry" />
+          <mxGeometry x="-2950" y="-860" width="310" height="170" as="geometry" />
         </mxCell>
         <mxCell id="MbmpIsr86u1NgLFeS8km-87" value="Berechtigungen:&lt;br&gt;&lt;ul&gt;&lt;li&gt;anzeigen&lt;/li&gt;&lt;li&gt;erstellen&lt;/li&gt;&lt;li&gt;löschen&lt;/li&gt;&lt;li&gt;ändern&lt;/li&gt;&lt;li&gt;freigeben&lt;/li&gt;&lt;li&gt;wiederöffnen&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;fillColor=#E1D5E7;" vertex="1" parent="1">
-          <mxGeometry x="-2950" y="-750" width="310" height="290" as="geometry" />
+          <mxGeometry x="-2950" y="-590" width="310" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
