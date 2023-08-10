@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T13:30:36.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="0pNykFINi2-aQ72Z6AP2" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T13:39:01.618Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ZEnAMM3XMerfSrUwUGgj" version="21.6.7" type="github">
   <diagram name="Seite-1" id="8O7nqMV1pDiucMTswJLM">
-    <mxGraphModel dx="4995" dy="3230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5357" dy="3421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--40" value="" style="html=1;whiteSpace=wrap;container=0;verticalAlign=top;align=left;fontStyle=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="-1560" y="-2170" width="780" height="270" as="geometry" />
+          <mxGeometry x="-1560" y="-2110" width="780" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Methotrexat&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xl2gw3tBLQ9xComEteI--98" target="Xl2gw3tBLQ9xComEteI--40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -210,19 +210,19 @@
         <mxCell id="Xl2gw3tBLQ9xComEteI--120" value="Informationen zum Zwischenfall" style="html=1;whiteSpace=wrap;container=1;verticalAlign=top;align=left;fontStyle=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="-2930" y="-1160" width="790" height="630" as="geometry" />
         </mxCell>
-        <mxCell id="Xl2gw3tBLQ9xComEteI--121" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Grad des Schadens&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--120">
+        <mxCell id="Xl2gw3tBLQ9xComEteI--121" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Grad des Schadens&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--120">
           <mxGeometry x="9.633686182517186" y="50" width="768.0926923076922" height="49.23" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--122" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--121">
           <mxGeometry x="203.0502564102564" y="4.922999999999999" width="556.5651282051282" height="34.461" as="geometry" />
         </mxCell>
-        <mxCell id="Xl2gw3tBLQ9xComEteI--123" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Zeitpunkt: Beginn des Zwischenfalls&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--120">
+        <mxCell id="Xl2gw3tBLQ9xComEteI--123" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Zeitpunkt: Beginn des Zwischenfalls&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--120">
           <mxGeometry x="9.631923076923075" y="230" width="768.0926923076922" height="45.38" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--124" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Feldtyp: Uhrzeit&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--123">
           <mxGeometry x="281.0673443456163" y="10.16" width="479.8622617534943" height="25.07" as="geometry" />
         </mxCell>
-        <mxCell id="Xl2gw3tBLQ9xComEteI--125" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Datum: Beginn des Zwischenfalls&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--120">
+        <mxCell id="Xl2gw3tBLQ9xComEteI--125" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Datum: Beginn des Zwischenfalls&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--120">
           <mxGeometry x="9.631923076923242" y="170" width="768.0926923076922" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--126" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Feldtyp: Datum&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--125">
@@ -234,13 +234,13 @@
         <mxCell id="Xl2gw3tBLQ9xComEteI--128" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--127">
           <mxGeometry x="242.39324980823318" y="10" width="519.6103298389158" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xl2gw3tBLQ9xComEteI--129" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Datum: Erkennung des Zwischenfalls&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--120">
+        <mxCell id="Xl2gw3tBLQ9xComEteI--129" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Datum: Erkennung des Zwischenfalls&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--120">
           <mxGeometry x="9.631923076922888" y="290" width="768.0926923076922" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--130" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Feldtyp: Datum&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--129">
           <mxGeometry x="281.0673443456163" y="14" width="478.54726810673446" height="27.62" as="geometry" />
         </mxCell>
-        <mxCell id="Xl2gw3tBLQ9xComEteI--131" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Zeitpunkt: Erkennung des Zwischenfalls&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--120">
+        <mxCell id="Xl2gw3tBLQ9xComEteI--131" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Zeitpunkt: Erkennung des Zwischenfalls&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--120">
           <mxGeometry x="10.706001857101036" y="350" width="768.0926923076922" height="45.38" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--132" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Feldtyp: Uhrzeit&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--131">
@@ -257,6 +257,9 @@
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--136" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Freitextfeld&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--135">
           <mxGeometry x="232.1569981756662" y="13.328000000000001" width="529.1799000829689" height="26.294240000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="Xl2gw3tBLQ9xComEteI--305" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Würde dann mit dem aktuellen Datum/Zeit gefüllt werden?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--120">
+          <mxGeometry x="570" y="285.38" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--137" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-2065" y="-820" width="460" height="280" as="geometry" />
@@ -342,7 +345,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--159" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-2930" y="-500" width="790" height="690" as="geometry" />
+          <mxGeometry x="-2935.94" y="-120" width="790" height="690" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--160" value="Informationen zum Patienten" style="html=1;whiteSpace=wrap;container=0;verticalAlign=top;align=left;fontStyle=1;fontSize=22;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--159">
           <mxGeometry width="790" height="310" as="geometry" />
@@ -357,16 +360,16 @@
           <mxGeometry x="7.349999999999909" y="40" width="762.65" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--262" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Vorname&lt;/span&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--159">
-          <mxGeometry x="7.349999999999909" y="100" width="762.65" height="55" as="geometry" />
+          <mxGeometry x="7.35" y="100" width="762.65" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--293" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Weitere Felder nötig?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--262">
-          <mxGeometry x="448.2800000000002" y="-5" width="150" height="60" as="geometry" />
+          <mxGeometry x="448.2800000000002" y="-4.545454545454545" width="150" height="54.54545454545455" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--263" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Nachname&lt;/span&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--159">
           <mxGeometry x="7.349999999999909" y="160" width="762.65" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--182" value="Ergriffene Massnahmen" style="html=1;whiteSpace=wrap;container=1;verticalAlign=top;align=left;fontStyle=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="-2929.9999999999995" y="-160" width="784.06" height="380" as="geometry" />
+          <mxGeometry x="-2929.9999999999995" y="-510" width="784.06" height="380" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--183" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Ergriffene Sofortmassnahmen&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--182">
           <mxGeometry x="9.84" y="42.4" width="764.1" height="47.6" as="geometry" />
@@ -399,7 +402,7 @@
           <mxGeometry x="507.978683309643" y="16.299999999999955" width="14.873847554729293" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--193" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-2070" y="-170" width="460" height="280" as="geometry" />
+          <mxGeometry x="-2065" y="-530" width="460" height="280" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--194" value="Verordnung gestoppt" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--193">
           <mxGeometry width="450" height="20" relative="1" as="geometry">
@@ -473,7 +476,7 @@
         <mxCell id="Xl2gw3tBLQ9xComEteI--212" value="Nein" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--210">
           <mxGeometry x="417.8899999999999" y="16" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="Xl2gw3tBLQ9xComEteI--225" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Wurden Gaben gegeben?&amp;nbsp;&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--208">
+        <mxCell id="Xl2gw3tBLQ9xComEteI--225" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Wurden Gaben gegeben?&amp;nbsp;&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--208">
           <mxGeometry x="9.949999999999946" y="159.99999999999994" width="758.37" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--226" value="Ja" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--225">
@@ -615,13 +618,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--258" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;rot = Pflichtfelder&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--207">
-          <mxGeometry x="1.2900000000004184" y="139.99999999999977" width="320.59" height="50" as="geometry" />
+          <mxGeometry x="1.2900000000004184" y="109.99999999999977" width="320.59" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--259" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;gelb = selbstausfüllende Felder&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--207">
-          <mxGeometry x="1.2900000000004184" y="199.99999999999977" width="320.59" height="50" as="geometry" />
+          <mxGeometry y="170" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--242" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-2070" y="-530" width="460" height="270" as="geometry" />
+          <mxGeometry x="-2060" y="-110" width="460" height="270" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--243" value="gastrointestinale Beschwerden" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--242">
           <mxGeometry width="459.99999999999994" height="20" relative="1" as="geometry">
@@ -731,25 +734,25 @@
           <mxGeometry x="-1530" y="-1490" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--292" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;MTX spezifische Felder?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1315" y="-2090" width="150" height="60" as="geometry" />
+          <mxGeometry x="-1420" y="-2020" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--294" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-2930" y="230" width="790" height="290" as="geometry" />
+          <mxGeometry x="-2930" y="210" width="790" height="290" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--295" value="Information zur Meldeperson" style="html=1;whiteSpace=wrap;container=0;verticalAlign=top;align=left;fontStyle=1;fontSize=22;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--294">
           <mxGeometry width="790" height="290" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--296" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Personalnummer&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--294">
-          <mxGeometry x="18.41" y="55.24" width="743.19" height="44.76" as="geometry" />
+          <mxGeometry x="10" y="50" width="760" height="44.76" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--298" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Vorname&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--294">
-          <mxGeometry x="18.409999999999854" y="110.47619047619045" width="743.19" height="41.42857142857142" as="geometry" />
+          <mxGeometry x="10" y="110.48" width="760" height="41.43" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--300" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Nachname&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--294">
-          <mxGeometry x="18.41" y="165.71" width="743.19" height="44.29" as="geometry" />
+          <mxGeometry x="10" y="165.71" width="760" height="44.29" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--301" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Email&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--294">
-          <mxGeometry x="18.41" y="220.95" width="743.19" height="49.05" as="geometry" />
+          <mxGeometry x="10" y="220.95" width="760" height="49.05" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--304" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Braucht es weitere Felder?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--294">
           <mxGeometry x="360" y="10" width="290" height="70" as="geometry" />
