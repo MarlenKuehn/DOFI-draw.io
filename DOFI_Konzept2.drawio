@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T11:17:36.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="OTIzqGOmsAPYWnuyLOl-" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T11:28:39.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="oyeW7CXKFAJV41bjY1Op" version="21.6.8" type="github">
   <diagram name="Seite-1" id="8O7nqMV1pDiucMTswJLM">
-    <mxGraphModel dx="5915" dy="3716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5514" dy="3504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Xl2gw3tBLQ9xComEteI--182" value="Ergriffene Massnahmen" style="html=1;whiteSpace=wrap;container=1;verticalAlign=top;align=left;fontStyle=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="-2926.29" y="-660" width="784.06" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="Xl2gw3tBLQ9xComEteI--183" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Ergriffene Sofortmassnahmen&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="Xl2gw3tBLQ9xComEteI--182" vertex="1">
+        <mxCell id="Xl2gw3tBLQ9xComEteI--183" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Empfohlene Sofortmassnahmen&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="Xl2gw3tBLQ9xComEteI--182" vertex="1">
           <mxGeometry x="9.84" y="42.4" width="764.1" height="47.6" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--184" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="Xl2gw3tBLQ9xComEteI--183" vertex="1">
-          <mxGeometry x="240.0002209404301" y="9.561319444444445" width="516.3704753625412" height="28.47736111111111" as="geometry" />
+          <mxGeometry x="250" y="9.56" width="506.37" height="28.48" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--187" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Muss der Aufenthalt des Patienten verlängert werden?&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="Xl2gw3tBLQ9xComEteI--182" vertex="1">
           <mxGeometry x="9.844912066664696" y="340" width="765.6655872315105" height="47.6" as="geometry" />
@@ -49,7 +49,7 @@
         <mxCell id="FquiktFZvUAVzPGzPpoy-51" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;bei Ja&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Xl2gw3tBLQ9xComEteI--182" vertex="1">
           <mxGeometry x="12.33" y="185" width="67.65" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FquiktFZvUAVzPGzPpoy-77" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Empfihlst du eine Dosisänderung?&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="Xl2gw3tBLQ9xComEteI--182" vertex="1">
+        <mxCell id="FquiktFZvUAVzPGzPpoy-77" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Empfiehlst du eine Dosisänderung?&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="Xl2gw3tBLQ9xComEteI--182" vertex="1">
           <mxGeometry x="10" y="100" width="764.35" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FquiktFZvUAVzPGzPpoy-78" value="Ja" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" parent="FquiktFZvUAVzPGzPpoy-77" vertex="1">
@@ -59,7 +59,7 @@
           <mxGeometry x="421.1852018144176" y="16" width="15.118279995252976" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--193" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-2067" y="-710" width="460" height="280" as="geometry" />
+          <mxGeometry x="-2114" y="-733.8" width="460" height="280" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--194" value="Verordnung gestoppt" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;whiteSpace=wrap;" parent="Xl2gw3tBLQ9xComEteI--193" vertex="1">
           <mxGeometry width="450" height="20" relative="1" as="geometry">
@@ -428,30 +428,6 @@
         <mxCell id="Xl2gw3tBLQ9xComEteI--259" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;gelb = selbstausfüllende Felder&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Jt8GE6jkNL4GzKu6u1VT-65" vertex="1">
           <mxGeometry y="60.00000000000023" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Xl2gw3tBLQ9xComEteI--294" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-2930" y="200" width="790" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="Jt8GE6jkNL4GzKu6u1VT-70" value="" style="group" vertex="1" connectable="0" parent="Xl2gw3tBLQ9xComEteI--294">
-          <mxGeometry y="-70" width="790" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="Xl2gw3tBLQ9xComEteI--295" value="Information zur Meldeperson" style="html=1;whiteSpace=wrap;container=0;verticalAlign=top;align=left;fontStyle=1;fontSize=22;" parent="Jt8GE6jkNL4GzKu6u1VT-70" vertex="1">
-          <mxGeometry width="790" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="Xl2gw3tBLQ9xComEteI--296" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Personalnummer&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Jt8GE6jkNL4GzKu6u1VT-70" vertex="1">
-          <mxGeometry x="10" y="50" width="760" height="44.76" as="geometry" />
-        </mxCell>
-        <mxCell id="Xl2gw3tBLQ9xComEteI--298" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Vorname&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Jt8GE6jkNL4GzKu6u1VT-70" vertex="1">
-          <mxGeometry x="10" y="110.48" width="760" height="41.43" as="geometry" />
-        </mxCell>
-        <mxCell id="Xl2gw3tBLQ9xComEteI--300" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Nachname&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Jt8GE6jkNL4GzKu6u1VT-70" vertex="1">
-          <mxGeometry x="10" y="165.71" width="760" height="44.29" as="geometry" />
-        </mxCell>
-        <mxCell id="Xl2gw3tBLQ9xComEteI--301" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Email&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Jt8GE6jkNL4GzKu6u1VT-70" vertex="1">
-          <mxGeometry x="10" y="220.95" width="760" height="49.05" as="geometry" />
-        </mxCell>
-        <mxCell id="Xl2gw3tBLQ9xComEteI--304" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Braucht es weitere Felder?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" parent="Jt8GE6jkNL4GzKu6u1VT-70" vertex="1">
-          <mxGeometry x="360" y="10" width="290" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="Jt8GE6jkNL4GzKu6u1VT-71" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-2930" y="-120" width="790" height="240" as="geometry" />
         </mxCell>
@@ -461,14 +437,11 @@
         <mxCell id="Xl2gw3tBLQ9xComEteI--260" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Fall-Nr.&lt;/span&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Jt8GE6jkNL4GzKu6u1VT-71" vertex="1">
           <mxGeometry x="7.349999999999909" y="40" width="762.65" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Xl2gw3tBLQ9xComEteI--262" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Vorname&lt;/span&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Jt8GE6jkNL4GzKu6u1VT-71" vertex="1">
+        <mxCell id="Xl2gw3tBLQ9xComEteI--262" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Patienten ID&lt;/span&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Jt8GE6jkNL4GzKu6u1VT-71" vertex="1">
           <mxGeometry x="7.349999999999909" y="100" width="762.65" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Xl2gw3tBLQ9xComEteI--293" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Weitere Felder nötig?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Xl2gw3tBLQ9xComEteI--262" vertex="1">
-          <mxGeometry x="448.2800000000002" y="-4.545454545454545" width="150" height="54.54545454545455" as="geometry" />
-        </mxCell>
-        <mxCell id="Xl2gw3tBLQ9xComEteI--263" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Nachname&lt;/span&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Jt8GE6jkNL4GzKu6u1VT-71" vertex="1">
-          <mxGeometry x="7.349999999999909" y="160" width="762.65" height="50" as="geometry" />
+        <mxCell id="Xl2gw3tBLQ9xComEteI--293" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Weitere Felder nötig?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Jt8GE6jkNL4GzKu6u1VT-71" vertex="1">
+          <mxGeometry x="430.0000000000001" y="140.00454545454545" width="150" height="54.54545454545455" as="geometry" />
         </mxCell>
         <mxCell id="Jt8GE6jkNL4GzKu6u1VT-73" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Zeitpunkt: Beginn der Risikosituation&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="-2915.368076923077" y="-1080" width="768.0926923076922" height="45.38" as="geometry" />
