@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T15:11:39.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="6hKEBAX3DM6MSRfLJ4oK" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T15:16:31.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Ni7pXPRNlT7QaQf6A76T" version="21.6.9" type="github">
   <diagram name="Seite-1" id="8O7nqMV1pDiucMTswJLM">
     <mxGraphModel dx="6098" dy="3601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,15 +12,6 @@
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--184" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="Xl2gw3tBLQ9xComEteI--183" vertex="1">
           <mxGeometry x="250" y="9.56" width="506.37" height="28.48" as="geometry" />
-        </mxCell>
-        <mxCell id="Xl2gw3tBLQ9xComEteI--187" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Muss der Aufenthalt des Patienten verlängert werden?&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="Xl2gw3tBLQ9xComEteI--182" vertex="1">
-          <mxGeometry x="9.844912066664696" y="340" width="765.6655872315105" height="47.6" as="geometry" />
-        </mxCell>
-        <mxCell id="Xl2gw3tBLQ9xComEteI--188" value="Ja" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" parent="Xl2gw3tBLQ9xComEteI--187" vertex="1">
-          <mxGeometry x="436.0884201284514" y="15" width="14.873847554729293" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="Xl2gw3tBLQ9xComEteI--189" value="Nein" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" parent="Xl2gw3tBLQ9xComEteI--187" vertex="1">
-          <mxGeometry x="507.978683309643" y="16.299999999999955" width="14.873847554729293" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--190" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Wurden die Massnahmen umgesetzt?&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="Xl2gw3tBLQ9xComEteI--182" vertex="1">
           <mxGeometry x="10.624912066664912" y="282.4" width="765.6655872315105" height="47.6" as="geometry" />
@@ -207,13 +198,13 @@
         <mxCell id="Jt8GE6jkNL4GzKu6u1VT-67" value="Nein" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" parent="Jt8GE6jkNL4GzKu6u1VT-57" vertex="1">
           <mxGeometry x="487.3052018144176" y="16" width="15.118279995252976" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="Jt8GE6jkNL4GzKu6u1VT-77" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Zeitpunkt: Beginn der Intervention&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="Xl2gw3tBLQ9xComEteI--120" vertex="1">
+        <mxCell id="Jt8GE6jkNL4GzKu6u1VT-77" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Zeitpunkt der Intervention&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="Xl2gw3tBLQ9xComEteI--120" vertex="1">
           <mxGeometry x="10.951923076923322" y="500" width="768.0926923076922" height="45.38" as="geometry" />
         </mxCell>
         <mxCell id="Jt8GE6jkNL4GzKu6u1VT-78" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Feldtyp: Uhrzeit&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="Jt8GE6jkNL4GzKu6u1VT-77" vertex="1">
           <mxGeometry x="281.0673443456163" y="10.16" width="479.8622617534943" height="25.07" as="geometry" />
         </mxCell>
-        <mxCell id="Jt8GE6jkNL4GzKu6u1VT-79" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Datum: Beginn der Intervention&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="Xl2gw3tBLQ9xComEteI--120" vertex="1">
+        <mxCell id="Jt8GE6jkNL4GzKu6u1VT-79" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Datum der Intervention&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="Xl2gw3tBLQ9xComEteI--120" vertex="1">
           <mxGeometry x="10.550000000000182" y="440" width="768.09" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Jt8GE6jkNL4GzKu6u1VT-80" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Feldtyp: Datum&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="Jt8GE6jkNL4GzKu6u1VT-79" vertex="1">
