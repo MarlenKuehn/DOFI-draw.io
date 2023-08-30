@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T06:27:21.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="EF4WJPJHbWXuSlXsygKb" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T06:51:36.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="yIwXX6wi6jf8Oj1NkjVD" version="21.6.9" type="github">
   <diagram name="Seite-1" id="8O7nqMV1pDiucMTswJLM">
-    <mxGraphModel dx="5401" dy="4455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5666" dy="4497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,6 +47,9 @@
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--103" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Keine Mehrfachauswahl&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="Xl2gw3tBLQ9xComEteI--98" vertex="1">
           <mxGeometry x="293.6999999999998" y="32.5" width="158.71" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1k3BisYx8RZJ3h7XRNCB-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Auto Suchfunktion?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Xl2gw3tBLQ9xComEteI--98">
+          <mxGeometry x="293.6999999999999" y="100" width="158.71" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xl2gw3tBLQ9xComEteI--236" value="Auswahlwert-Feldgruppe" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;container=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="Xl2gw3tBLQ9xComEteI--208" vertex="1">
           <mxGeometry x="215.36346153846125" y="50.00000000000023" width="547.7448076923076" height="30" as="geometry" />
@@ -398,10 +401,16 @@
           <mxGeometry x="200" y="14" width="458.93" height="27.62" as="geometry" />
         </mxCell>
         <mxCell id="1k3BisYx8RZJ3h7XRNCB-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Empfohlene Sofortmassnahmen&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-2917.9199999999996" y="-620" width="764.1" height="47.6" as="geometry" />
+          <mxGeometry x="-2917.9199999999996" y="-620" width="820" height="56.190000000000055" as="geometry" />
         </mxCell>
         <mxCell id="1k3BisYx8RZJ3h7XRNCB-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;Freitextfeld (memo)&amp;nbsp;&lt;/font&gt;&amp;nbsp;(Text aus Textbausteinen beziehbar)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1k3BisYx8RZJ3h7XRNCB-6">
           <mxGeometry x="250.80999999999995" y="12.38000000000011" width="500" height="27.62" as="geometry" />
+        </mxCell>
+        <mxCell id="1k3BisYx8RZJ3h7XRNCB-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Rechtschreibeprüfung?&lt;br&gt;Höhe autom. anpassen?&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1k3BisYx8RZJ3h7XRNCB-6">
+          <mxGeometry x="627.92" y="-3.81" width="192.08" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1k3BisYx8RZJ3h7XRNCB-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Rechtschreibeprüfung?&lt;br&gt;Höhe autom. anpassen?&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2189.9999999999995" y="-314.99999999999994" width="192.08" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
